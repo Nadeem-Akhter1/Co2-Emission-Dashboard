@@ -30,3 +30,6 @@ The dashboard includes a dropdown for country selection and four charts: CO2 emi
 Deployment:
 
 The Dash web application is run locally in debug mode for testing and development. For production use, the application could be deployed on a web server or cloud platform.
+
+# Dataset
+I have taken this dataset from: https://github.com/owid/co2-data
