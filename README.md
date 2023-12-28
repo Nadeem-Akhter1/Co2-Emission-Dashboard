@@ -1,6 +1,6 @@
 # Co2-Emission-Dashboard
 # Problem Statement:
-The provided code aims to analyze and visualize environmental, social, and governance (ESG) scores for different countries based on their CO2 emissions, population, GDP, and other factors. Additionally, it includes a decision tree regression model to predict CO2 emissions per capita using various features related to economic and environmental factors. The code concludes with a dashboard created using Dash, a Python web framework, to interactively explore ESG-related data for selected countries.
+I aim to analyze and visualize environmental, social, and governance (ESG) scores for different countries based on their CO2 emissions, population, GDP, and other factors. Additionally, it includes a decision tree regression model to predict CO2 emissions per capita using various features related to economic and environmental factors. The code concludes with a dashboard created using Dash, a Python web framework, to interactively explore ESG-related data for selected countries.
 
 # Approach to the Solution:
 
